@@ -4,4 +4,4 @@ Basic homepage with links to recipe pages
 
 lists, images, links, text.
 
-Self Reflection: 
+Self Reflection: Fun, Easy to understand. Need to work on absolute links and speed.
