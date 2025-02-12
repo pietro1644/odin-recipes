@@ -1,0 +1,43 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.head-tina {
+    text-align: center;
+    font-size: 100px;
+    color: cadetblue;
+    margin-bottom: 0%;
+}
+
+.list-text {
+    font-size: 24px;
+    text-align: center;
+    list-style-position: inside;
+    color: rgb(66, 125, 177);
+    margin-top: 0%
+}
+
+#footer-link {
+    font-size: 100px;
+    color: rgb(118, 8, 8);
+}
+
+.image {
+    height: auto;
+    margin: 100px 100px 100px 100px;
+}
+.nacho {
+    width: 100px;
+    float: left;
+}
+.paul {
+    width: 100px;
+    float: left;
+}
+.noodle {
+    width: 100px;
+    float: right;
+}
+.ray {
+    width: 100px;
+    float: right;
+}
